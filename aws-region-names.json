@@ -1,0 +1,21 @@
+{
+  "zones": [
+    {"name": "us-east-1", "region": "us-east-1"},
+    {"name": "us-east-2", "region": "us-east-2"},
+    {"name": "us-west-1", "region": "us-west-1"},
+    {"name": "us-west-2", "region": "us-west-2"},
+    {"name": "ca-central-1", "region": "ca-central-1"},
+    {"name": "eu-west-1", "region": "eu-west-1"},
+    {"name": "eu-central-1", "region": "eu-central-1"},
+    {"name": "eu-west-2", "region": "eu-west-2"},
+    {"name": "eu-west-3", "region": "eu-west-3"},
+    {"name": "eu-north-1", "region": "eu-north-1"},
+    {"name": "ap-northeast-1", "region": "ap-northeast-1"},
+    {"name": "ap-northeast-2", "region": "ap-northeast-2"},
+    {"name": "ap-southeast-1", "region": "ap-southeast-1"},
+    {"name": "ap-southeast-2", "region": "ap-southeast-2"},
+    {"name": "ap-south-1", "region": "ap-south-1"},
+    {"name": "sa-east-1", "region": "sa-east-1"}
+    
+  ]
+}
